@@ -1,6 +1,6 @@
 # Telegram Support Bot
 
-A simple Telegram support bot built that forwards messages from users to an admin and allows the admin to reply directly.
+A simple Telegram support bot that forwards messages from users to an admin and allows the admin to reply directly.
 
 ## Requirements
 
